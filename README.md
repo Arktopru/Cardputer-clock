@@ -113,5 +113,7 @@ long default_gmtOffset = 10 * 3600;
 Проект распространяется под лицензией Apache 2.0
 Автор: Arktopru.
 
-🤝 Вклад
+clock.jpeg
+
+date.jpeg
 
