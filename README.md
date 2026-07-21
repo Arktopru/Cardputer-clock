@@ -113,7 +113,7 @@ long default_gmtOffset = 10 * 3600;
 Проект распространяется под лицензией Apache 2.0
 Автор: Arktopru.
 
-clock.jpeg
+![Main screen](clock.jpeg)
 
-date.jpeg
+![Date screen](date.jpeg)
 
